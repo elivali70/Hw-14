@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="App.Domai.Contarct/App.Domain.Contarct.csproj" />
+  <Project Path="App.Domai.Model/App.Domain.Model.csproj" />
+  <Project Path="App.Domain.Core/App.Domain.Core.csproj" />
+  <Project Path="App.Infrastructue.Database.SqlServer/App.Infrastructure.Database.SqlServer.csproj" />
+  <Project Path="Hw-14/Hw-14.csproj" />
+</Solution>
